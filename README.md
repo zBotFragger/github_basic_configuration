@@ -28,6 +28,12 @@ After you select the mode, new or old repository, scroll down the page until the
 
 
 Now, we can configure our workspace.
+We will need configure the credentials.
+Digite the follow commands:
 
-
-
+```
+git config --global user.name "yourUser"
+```
+and
+```
+git config --global user.email "yourEmail@yourDomain.com"
