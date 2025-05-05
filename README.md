@@ -16,9 +16,12 @@ Now, if you are correctly connected to your github account, you can configure yo
 To configure, you will need open a remote repository, with the configuration made before, you will can access it.
 Click in "Create button" to begin a new project.
 
-![Open workspace](.github/Assets/open_workspace.jpg)
+![Open workspace01](.github/Assets/open_workspace01.jpg)
 
-Obs: You can create a "New Repository" previously or can open an oldest, in github page.
+
+Obs: You can create a "New Repository" previously or can open an oldest, in github page
+
+![Open workspace2](.github/Assets/open_workspace02.jpg)
 
 
 
