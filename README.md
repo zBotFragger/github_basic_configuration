@@ -4,5 +4,8 @@
 Connect to your acount (you can use google account).
 After you connect, you will need to connect your github account.
 click in gear icon to acces your account configuration.
-
+### Main menu
 ![Main Menu](.github/Assets/main_menu.jpg)
+
+### Configuration menu
+![Configuration menu](.github/Assets/configuration_menu.jpg)
