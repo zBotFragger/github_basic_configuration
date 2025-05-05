@@ -2,10 +2,16 @@
 
 ### First step:
 Connect to your acount (you can use google account).
-After you connect, you will need to connect your github account.
-click in gear icon to acces your account configuration.
 ### Main menu
 ![Main Menu](.github/Assets/main_menu.jpg)
 
+### Second step:
+After you connect, you will need to connect your github account.
+Click in gear icon to acces your account configuration.
 ### Configuration menu
 ![Configuration menu](.github/Assets/configuration_menu.jpg)
+
+### Third step:
+Now, if you are correctly connected to your github account, you can configure your workspace.
+
+
