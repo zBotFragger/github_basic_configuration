@@ -19,9 +19,12 @@ Click in "Create button" to begin a new project.
 ![Open workspace01](.github/Assets/open_workspace01.jpg)
 
 
-Obs: You can create a "New Repository" previously or can open an oldest, in github page
+Obs: You can create a "New Repository" previously or can open an oldest, in github page.
+After you select the mode, new or old repository, scroll down the page until the "Import From Github" button.
 
 ![Open workspace2](.github/Assets/open_workspace02.jpg)
+
+Now, we can configure our workspace.
 
 
 
