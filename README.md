@@ -2,8 +2,8 @@
 
 ## First step:
 Connect to your acount (you can use google account).
-### Main menu
-![Main Menu](.github/Assets/main_menu.jpg)
+### Main page
+![Main Menu](.github/Assets/main_page.jpg)
 
 ## Second step:
 After you connect, you will need to connect your github account.
@@ -13,5 +13,8 @@ Click in gear icon to acces your account configuration.
 
 ## Third step:
 Now, if you are correctly connected to your github account, you can configure your workspace.
+To configure, you will need open a remote repository, with the configuration made before, you will can access it.
+Click in "Create button" to begin a new project.
+
 
 
