@@ -31,9 +31,10 @@ Now, we can configure our workspace.
 We will need configure the credentials.
 Digite the follow commands:
 
-```
-git config --global user.name "yourUser"
-```
+>```
+>git config --global user.name "yourUser"
+>```
 and
-```
-git config --global user.email "yourEmail@yourDomain.com"
+>```
+>git config --global user.email "yourEmail@yourDomain.com"
+>```
