@@ -24,6 +24,9 @@ After you select the mode, new or old repository, scroll down the page until the
 
 ![Open workspace2](.github/Assets/open_workspace02.jpg)
 
+![Import From Github](.github/Assets/import_from_github.jpg)
+
+
 Now, we can configure our workspace.
 
 
