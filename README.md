@@ -39,3 +39,6 @@ and
 ```bash
 git config --global user.email "yourEmail@yourDomain.com"
 ```
+Now, if you do the last step, you will can do commits by Replit Terminal.
+You can find the following error when try to open the Console:
+
