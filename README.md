@@ -3,7 +3,7 @@
 ## First step:
 Connect to your acount (you can use google account).
 ### Main page
-![Main Menu](.github/Assets/main_page.jpg)
+![Main Menu](.github/Assets/main_page.png)
 
 ## Second step:
 After you connect, you will need to connect your github account.
