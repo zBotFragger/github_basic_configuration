@@ -32,9 +32,11 @@ We will need configure the credentials.
 
 Open Shell tool in this path:
 
-![Open Shell](.github/Assets/open_shell.png)
+![OpenShell01](.github/Assets/open_shell01.png)
 
-Digite the follow commands:
+![OpenShell02](.github/Assets/open_shell02.png)
+
+The shell windows will appear, you need to configure your credentials, digite the follow commands:
 
 ```bash
 git config --global user.name "yourUser"
