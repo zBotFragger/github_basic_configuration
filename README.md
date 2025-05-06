@@ -29,6 +29,11 @@ After you select the mode, new or old repository, scroll down the page until the
 
 Now, we can configure our workspace.
 We will need configure the credentials.
+
+Open Shell tool in this path:
+
+![Open Shell](.github/Assets/open_shell.png)
+
 Digite the follow commands:
 
 ```bash
@@ -39,8 +44,7 @@ and
 ```bash
 git config --global user.email "yourEmail@yourDomain.com"
 ```
-Now, if you do the last step, you will can do commits by Replit Terminal.
-You can find the following error when try to open the Console:
+
 
 
 
