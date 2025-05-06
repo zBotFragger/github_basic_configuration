@@ -47,6 +47,6 @@ and
 git config --global user.email "yourEmail@yourDomain.com"
 ```
 
-
+If you type the commands correctly, no one error message is appear, and now, you can begin the commits in your remote repositories.
 
 
