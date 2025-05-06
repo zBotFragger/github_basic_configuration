@@ -22,7 +22,7 @@ Click in "Create button" to begin a new project.
 Obs: You can create a "New Repository" previously or can open an oldest, in github page.
 After you select the mode, new or old repository, scroll down the page until the "Import From Github" button.
 
-![Open workspace2](.github/Assets/open_workspace02.jpg)
+![Open workspace2](.github/Assets/open_workspace02.png)
 
 ![Import From Github](.github/Assets/import_from_github.jpg)
 
